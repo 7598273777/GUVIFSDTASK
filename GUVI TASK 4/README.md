@@ -1,5 +1,8 @@
 Below - Programs in anonymous function , IIFE and Arrow Function
 
+
+
+
 a. Print Odd Numbers in an array
 b. Convert all the string to title caps in a string array
 c. Sum of all numbers in an array 
